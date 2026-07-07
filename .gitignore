@@ -1,0 +1,5 @@
+ustreamer/
+*.o
+*.log
+__pycache__/
+.DS_Store
